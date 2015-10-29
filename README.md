@@ -20,7 +20,7 @@ Than in the module buildscript:
 
 
 ```groovy
-compile 'com.github.shareme:GWSEasing:1.0.0.0@aar'
+compile 'com.github.shareme:GWSEasing:{latest-release-number}@aar'
 ```
 
 
